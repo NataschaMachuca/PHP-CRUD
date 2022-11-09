@@ -1,0 +1,105 @@
+*{
+  background-color: rgb(220, 207, 232);
+}
+
+.navbar-brand {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 30px;
+}
+
+.form{
+  background-color: rgb(220, 207, 232);
+  text-align: center;
+  width: 50%;
+  position: relative;
+  padding: 30px;
+  text-align: left;
+  color: black;
+  font-size: 17px;
+  margin: 100px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 30px 0px rgb(157, 77, 228);
+  border: 0.25rem double  rgb(157, 77, 228);
+  padding: 4rem;
+}
+.form input[type=text], .form input[type=number], .form input[type=email] {
+  width: 100%;
+  text-align: left;
+  font-size: 15px;
+  font-weight: 300;
+  background-color: rgb(220, 207, 232);
+  margin-top: 16px;
+  height: 20px;
+  border: none;
+  border-bottom: solid 2px rgb(181, 8, 239);
+  border-radius: 3px ;
+}
+
+h1{
+  background-color:  rgb(220, 207, 232);
+  text-align: center;
+  -webkit-text-stroke: 1px rgb(181, 8, 239);
+  font-size: 40px;
+}
+
+.contenedor{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input{
+  background-color:  rgb(220, 207, 232);
+  width: 100%;
+  height: 25px;
+  border: 1px solid rgb(13, 13, 13);
+  font-size: 15px;
+  color: black;
+  border: none;
+  border: solid 1px rgb(181, 8, 239);
+  border-radius: 3px ;
+}
+
+
+.Regresar{
+  background-color:rgb(220, 207, 232);
+  width: 100%;
+  height: 25px;
+  border: 1px solid rgb(13, 13, 13);
+  font-size: 15px;
+  color: black;
+  border: none;
+  border: solid 1px rgb(181, 8, 239);
+  border-radius: 3px ;
+}
+
+.navbar-brand {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.collapse {
+    font-size: 25px;
+}
+
+.d-block{
+    height: 600px;
+    margin: 10px;
+}
+
+table tr:hover {
+    background-color: rgb(162, 161, 159);
+}
+
+table td:hover{
+    background-color: rgb(162, 161, 159);
+}
+
+.navbar-collapse li a:hover{
+    background-color: rgb(162, 161, 159);
+}
+
+
+
